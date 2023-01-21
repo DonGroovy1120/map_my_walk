@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576771086062",
+    "project_id": "map-my-walk-2e3e4",
+    "storage_bucket": "map-my-walk-2e3e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576771086062:android:455e634f839b2d6a3dc5ff",
+        "android_client_info": {
+          "package_name": "com.usamamuzaffar.map_my_walk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576771086062-rklfto6gf5vbvq7e95r0odmsqqfec7no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB47-cJpx5w675xvNhsqnKwsaqYRpvRhsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576771086062-rklfto6gf5vbvq7e95r0odmsqqfec7no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
